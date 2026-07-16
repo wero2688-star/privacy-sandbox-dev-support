@@ -35,4 +35,4 @@ If you have further feedback or questions, you can continue to reply to us in yo
 
 We also use this repo as a location for different companies and organizations to share information about their work migrating from third-party cookies to alternative solutions.
 
-View and learn how to add your own organization to the [Third-party cookie deprecation (3PCD) readiness list](./3pcd-readiness.md).
+View and learn how to add your own organization to the [Third-party cookie deprecation (3PCD) readiness list](./3pcd-readiness.md). 
